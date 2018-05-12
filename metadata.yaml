@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '33921'
     url: http://www.gutenberg.org/2009/agents/33921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43397#The-Comic-English-GrammarA-New-and-Facetious-Introduction-to-the-English-Tongue
 gutenberg_issued: '2013-08-04'
 gutenberg_type: Text
 identifiers:
